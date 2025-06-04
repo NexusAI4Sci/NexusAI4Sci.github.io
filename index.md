@@ -9,7 +9,7 @@ layout: home
 ---
 <div style="font-family: 'Source Sans Pro', sans-serif; background: url('/images/banner_no_text.png') no-repeat; background-size: cover; user-select: none;">
 	<center>
-		<h2 class="blackpar_title" >Workshop on<br>Frontiers of Generative AI in Physical Sciences: Foundations, Challenges, and Opportunities (NexusAI4Sci)</h2>
+		<h2 class="blackpar_title" >Workshop on<br>Scientific Reasoning at the Frontier: Training and Evaluating the Next Generation of Multimodal Models for Scientific Discovery</h2>
 		<h3 class="blackpar_title"> <br> <b>In-person</b>  and <b>Virtual</b> </h3>
 	</center>
 </div>
