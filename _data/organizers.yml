@@ -1,0 +1,23 @@
+- num_row: 0
+  organizers:
+    - name: Sandeep Madireddy
+      affiliation: Argonne National Laboratory
+      photo: sandeep_madireddy.jpg
+    - name: Bhavya Kailkhura
+      affiliation: Lawrence Livermore National Laboratory
+      photo: bhavya_kailkhura.png
+    - name: James Donovan 
+      affiliation: OpenAI
+      photo: james_donovan.jpg
+    - name:  Rio Yokota 
+      affiliation: Tokyo Institute of Technology
+      photo: rio_yakota.jpeg
+- num_row: 1
+  organizers:
+    - name: Aditi Krishnapriya
+      affiliation: University of California, Berkeley
+      photo: aditi_krishnapriya.jpg
+    - name: Max Welling
+      affiliation: University of Amsterdam
+      photo: max_welling.jpg
+

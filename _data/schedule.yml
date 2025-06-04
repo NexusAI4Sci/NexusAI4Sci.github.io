@@ -1,0 +1,78 @@
+- Title: Opening Remarks
+  Time: 08:50AM – 09:00AM
+  Presenter: Organizers
+  Whole_Line: true
+  
+- Title: Keynote Talk 1
+  Time: 09:00 – 09:30
+  Presenter: Rick Stevens
+  Whole_Line: false
+  Bio: "25-minute talk + 5-minute Q&A"
+  
+- Title: Keynote Talk 2
+  Time: 09:30 – 10:00
+  Presenter: Matej Balog 
+  Whole_Line: false
+  Bio: "25-minute talk + 5-minute Q&A"
+  
+- Title: Keynote Talk 3
+  Time: 10:00 – 10:30
+  Presenter: Aditya Grover
+  Whole_Line: false
+  Bio: "25-minute talk + 5-minute Q&A"
+  
+- Title: Break
+  Time: 10:30 – 10:40
+  Whole_Line: true
+  
+- Title: Spotlight Talks Session 1
+  Time: 10:40 – 11:40
+  Whole_Line: false
+  Bio: "5 selected papers, 10-minute talk + 2-minute Q&A each"
+  
+- Title: Poster Session 1
+  Time: 11:40 – 12:40
+  Whole_Line: false
+  Bio: "Interactive discussions with authors"
+  
+- Title: Lunch & Networking Break
+  Time: 12:40 – 13:25
+  Whole_Line: true
+  Bio: "45 minutes"
+  
+- Title: Keynote Talk 4
+  Time: 13:25 – 13:55
+  Presenter: Graham Neubig
+  Whole_Line: false
+  Bio: "25-minute talk + 5-minute Q&A"
+
+- Title: Keynote Talk 5
+  Time: 13:55 – 14:25
+  Presenter: Juan A Cambeiro
+  Whole_Line: false
+  Bio: "25-minute talk + 5-minute Q&A"
+
+- Title: Spotlight Talks Session 2
+  Time: 14:25 – 15:25
+  Whole_Line: false
+  Bio: "5 selected papers, 10-minute talk + 2-minute Q&A each"
+  
+- Title: Poster Session 2
+  Time: 15:25 – 16:25
+  Whole_Line: false
+  Bio: "Continued discussions and networking"
+  
+- Title: Panel Discussion, Generative AI for Scientific Discovery—Challenges and Opportunities
+  Time: 16:25 – 17:25
+  Whole_Line: false
+  Bio: "Featuring experts from academia, industry, and national labs."
+  
+- Title: Closing Remarks & Future Directions
+  Time: 17:25 – 17:30
+  Whole_Line: true
+  
+- Title: Offsite Social Event
+  Time: 18:00 – 20:00
+  Whole_Line: true
+  Bio: "Encouraging informal networking across disciplines"
+
